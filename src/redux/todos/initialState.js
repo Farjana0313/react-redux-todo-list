@@ -3,12 +3,12 @@ const initialState = [
     {
         id: 1,
         text: 'Learn Redux',
-        status: true
+        completed: true
     },
     {
         id: 2,
         text: 'Leaun React js',
-        status: false,
+        completed: false,
         color: "red"
     }
 ]
